@@ -1,0 +1,13 @@
+.sidebar-nav li.active ul  {
+	display: block !important;
+}
+
+/* Web fonts css */
+.ti-plus {
+    margin-top: .6rem;
+    font-weight: bold !important;
+}
+.ti-minus {
+    margin-top: .6rem;
+    font-weight: bold !important;
+}
